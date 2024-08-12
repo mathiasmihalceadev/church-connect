@@ -1,0 +1,56 @@
+.str-chat {
+    font-family: '__DM_Sans_0dfae3' !important;
+}
+
+.str-chat__channel-header-title {
+    font-family: '__DM_Sans_0dfae3' !important;
+    font-size: 24px !important;
+    letter-spacing: -0.5px;
+    font-weight: 600 !important;
+}
+
+.str-chat__header-livestream-left {
+    gap: 0 !important;
+}
+
+.str-chat__channel-header-info {
+    font-family: '__DM_Sans_0dfae3' !important;
+}
+
+.str-chat__empty-channel-text {
+    font-family: '__DM_Sans_0dfae3' !important;
+}
+
+.str-chat__date-separator-date {
+    font-family: '__DM_Sans_0dfae3' !important;
+    font-size: 16px !important;
+    letter-spacing: -0.5px;
+}
+
+.str-chat__message-simple-text-inner {
+    font-family: '__DM_Sans_0dfae3' !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    letter-spacing: -0.5px;
+}
+
+.str-chat__message-bubble {
+    background-color: #D1E0F7 !important;
+}
+
+.str-chat__message-simple-timestamp {
+    font-family: '__DM_Sans_0dfae3' !important;
+}
+
+.str-chat__avatar-fallback {
+    background: #456CD2;
+}
+
+.str-chat__message-textarea {
+    font-size: 18px !important;
+}
+
+.str-chat__message-data {
+    font-family: '__DM_Sans_0dfae3' !important;
+    letter-spacing: -0.2px;
+}
